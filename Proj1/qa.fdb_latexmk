@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1644668864 "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" "qa.pdf" "qa" 1644668865
+["pdflatex"] 1644777155 "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" "qa.pdf" "qa" 1644777157
   "C:/Users/rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1644664708 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/rohan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1644647100 9769967 08c6c2682618ddc7bdaa0b92a3a5ee4f ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -51,12 +51,12 @@
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/grfext/grfext.sty" 1575399474 7133 b94bbacbee6e4fdccdc7f810b2aec370 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty" 1602228096 22521 d2fceb764a442a2001d257ef11db7618 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1634577016 29971 6c47712bf4bc87d15b2ca318615f75a3 ""
-  "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" 1644668863 2861 95fa7702687e080c23b30a708d7fb1aa ""
+  "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" 1644777154 3085 3f3d06fb51ca19f4c68ec6a9b692aa40 ""
   "pic1.png" 1644661879 16684 78ea7cfe8f197c36799e7a42e6a74c20 ""
   "pic2.png" 1644663336 19633 6f5e4532ea67fbe951c912859091b0aa ""
   "pic3.png" 1644667657 21671 01705b5f29a2b7e67c061d822d5d89b6 ""
-  "qa.aux" 1644668865 137 7e06dc963cdc8833aa821871b3d09d4a "pdflatex"
-  "qa.tex" 1644668863 2861 95fa7702687e080c23b30a708d7fb1aa ""
+  "qa.aux" 1644777157 137 7e06dc963cdc8833aa821871b3d09d4a "pdflatex"
+  "qa.tex" 1644777154 3085 3f3d06fb51ca19f4c68ec6a9b692aa40 ""
   (generated)
   "qa.aux"
   "qa.log"
