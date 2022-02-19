@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.12)  14 FEB 2022 00:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.12)  19 FEB 2022 13:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -113,35 +113,43 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
+) (C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+) (C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count272
+\multirow@dima=\skip53
+\bigstrutjot=\dimen158
 ) (C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip52
-\enit@outerparindent=\dimen158
+\labelindent=\skip54
+\enit@outerparindent=\dimen159
 \enit@toks=\toks23
 \enit@inbox=\box52
-\enit@count@id=\count272
-\enitdp@description=\count273
+\enit@count@id=\count273
+\enitdp@description=\count274
 ) (C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
+\l__color_backend_stack_int=\count275
 \l__pdf_internal_box=\box53
 ) (qa.aux)
 \openout1 = `qa.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -179,16 +187,16 @@ LaTeX Font Info:    ... okay on input line 24.
 
 (C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
-\scratchdimen=\dimen159
+\scratchcounter=\count276
+\scratchdimen=\dimen160
 \scratchbox=\box54
-\nofMPsegments=\count276
-\nofMParguments=\count277
+\nofMPsegments=\count277
+\nofMParguments=\count278
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count278
-\MPscratchDim=\dimen160
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen161
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
 \everyMPtoPDFconversion=\toks25
 ) (C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -217,37 +225,53 @@ Package grfext Info: Graphics extension search list:
  (C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+LaTeX Info: Redefining \celsius on input line 26.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 26.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 26.
+Package gensymb Info: Using \Omega for \ohm on input line 26.
+
+Package gensymb Warning: Not defining \micro.
+
 <pic1.png, id=1, 223.43475pt x 202.95825pt>
 File: pic1.png Graphic file (type png)
 <use pic1.png>
-Package pdftex.def Info: pic1.png  used on input line 43.
+Package pdftex.def Info: pic1.png  used on input line 45.
 (pdftex.def)             Requested size: 156.40326pt x 142.0698pt.
 <pic2.png, id=3, 218.0145pt x 156.585pt>
 File: pic2.png Graphic file (type png)
 <use pic2.png>
-Package pdftex.def Info: pic2.png  used on input line 57.
+Package pdftex.def Info: pic2.png  used on input line 59.
 (pdftex.def)             Requested size: 174.41182pt x 125.26816pt.
 <pic3.png, id=4, 208.98074pt x 242.70676pt>
 File: pic3.png Graphic file (type png)
 <use pic3.png>
-Package pdftex.def Info: pic3.png  used on input line 77.
+Package pdftex.def Info: pic3.png  used on input line 79.
 (pdftex.def)             Requested size: 167.18481pt x 194.16565pt.
- [1{C:/Users/rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+<pic4.png, id=5, 207.77625pt x 189.70876pt>
+File: pic4.png Graphic file (type png)
+<use pic4.png>
+Package pdftex.def Info: pic4.png  used on input line 111.
+(pdftex.def)             Requested size: 166.2212pt x 151.7672pt.
+[1{C:/Users/rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
- <./pic1.png> <./pic2.png> <./pic3.png>] (qa.aux) ) 
+ <./pic1.png> <./pic2.png> <./pic3.png>] [2 <./pic4.png>] (qa.aux) ) 
 Here is how much of TeX's memory you used:
- 3423 strings out of 478659
- 57048 string characters out of 2845920
- 367135 words of memory out of 3000000
- 21497 multiletter control sequences out of 15000+600000
- 408052 words of font info for 43 fonts, out of 8000000 for 9000
+ 3564 strings out of 478659
+ 59677 string characters out of 2845920
+ 380254 words of memory out of 3000000
+ 21629 multiletter control sequences out of 15000+600000
+ 408506 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,67p,261b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on qa.pdf (1 page, 123106 bytes).
+ 60i,8n,67p,287b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on qa.pdf (2 pages, 165721 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
