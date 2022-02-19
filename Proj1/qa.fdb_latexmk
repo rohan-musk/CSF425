@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1645267155 "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" "qa.pdf" "qa" 1645267156
+["pdflatex"] 1645267507 "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" "qa.pdf" "qa" 1645267508
   "C:/Users/rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1645256229 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/rohan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1644647100 9769967 08c6c2682618ddc7bdaa0b92a3a5ee4f ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -59,13 +59,13 @@
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1634577016 29971 6c47712bf4bc87d15b2ca318615f75a3 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1615976118 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/was/gensymb.sty" 1081488500 4755 29d19942d7123701aa6a3876b9ba11b1 ""
-  "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" 1645267154 10726 3dae324a62cb37b578785ffdf759c950 ""
-  "pic1.png" 1644661879 16684 78ea7cfe8f197c36799e7a42e6a74c20 ""
-  "pic2.png" 1644663336 19633 6f5e4532ea67fbe951c912859091b0aa ""
-  "pic3.png" 1644667657 21671 01705b5f29a2b7e67c061d822d5d89b6 ""
-  "pic4.png" 1645253348 19711 4d6f0b94f42d965e008ad479a8ccc678 ""
-  "qa.aux" 1645267156 137 f6805fbf112a8779fc2474b39a479d1f "pdflatex"
-  "qa.tex" 1645267154 10726 3dae324a62cb37b578785ffdf759c950 ""
+  "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" 1645267506 10726 88c9c363e24d0de377d7f19d566ff745 ""
+  "pic1.png" 1645267369 37614 29ca350e09e6fefc12b1f87d40121488 ""
+  "pic2.png" 1645267392 79984 17e67891ac6f90fe2685022c609cf28e ""
+  "pic3.png" 1645267415 53129 68fb85757a6531829b70f0406f3aa339 ""
+  "pic4.png" 1645267432 48810 a2755ae9ea2c001f2ba4c5aaa32cca39 ""
+  "qa.aux" 1645267507 137 f6805fbf112a8779fc2474b39a479d1f "pdflatex"
+  "qa.tex" 1645267506 10726 88c9c363e24d0de377d7f19d566ff745 ""
   (generated)
   "qa.aux"
   "qa.log"

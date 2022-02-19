@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.12)  19 FEB 2022 16:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.12)  19 FEB 2022 16:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -236,42 +236,43 @@ Package gensymb Info: Using \Omega for \ohm on input line 26.
 
 Package gensymb Warning: Not defining \micro.
 
-<pic1.png, id=1, 223.43475pt x 202.95825pt>
+<pic1.png, id=1, 450.483pt x 425.79076pt>
 File: pic1.png Graphic file (type png)
 <use pic1.png>
 Package pdftex.def Info: pic1.png  used on input line 45.
-(pdftex.def)             Requested size: 156.40326pt x 142.0698pt.
-<pic2.png, id=3, 218.0145pt x 156.585pt>
+(pdftex.def)             Requested size: 180.19pt x 170.31328pt.
+<pic2.png, id=3, 558.28575pt x 401.70074pt>
 File: pic2.png Graphic file (type png)
 <use pic2.png>
 Package pdftex.def Info: pic2.png  used on input line 59.
-(pdftex.def)             Requested size: 174.41182pt x 125.26816pt.
-<pic3.png, id=4, 208.98074pt x 242.70676pt>
+(pdftex.def)             Requested size: 223.31033pt x 160.67744pt.
+<pic3.png, id=4, 407.72325pt x 480.5955pt>
 File: pic3.png Graphic file (type png)
 <use pic3.png>
 Package pdftex.def Info: pic3.png  used on input line 79.
-(pdftex.def)             Requested size: 167.18481pt x 194.16565pt.
-<pic4.png, id=5, 207.77625pt x 189.70876pt>
-File: pic4.png Graphic file (type png)
-<use pic4.png>
-Package pdftex.def Info: pic4.png  used on input line 111.
-(pdftex.def)             Requested size: 166.2212pt x 151.7672pt.
+(pdftex.def)             Requested size: 163.0864pt x 192.23479pt.
 [1{C:/Users/rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
- <./pic1.png> <./pic2.png> <./pic3.png>] [2 <./pic4.png>] [3
+ <./pic1.png> <./pic2.png> <./pic3.png>]
+<pic4.png, id=17, 424.58624pt x 354.123pt>
+File: pic4.png Graphic file (type png)
+<use pic4.png>
+Package pdftex.def Info: pic4.png  used on input line 111.
+(pdftex.def)             Requested size: 169.83148pt x 141.64668pt.
+ [2 <./pic4.png>] [3
 
 ] (qa.aux) ) 
 Here is how much of TeX's memory you used:
  3564 strings out of 478659
  59677 string characters out of 2845920
- 388254 words of memory out of 3000000
+ 389254 words of memory out of 3000000
  21629 multiletter control sequences out of 15000+600000
  408506 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,67p,287b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,8n,67p,287b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on qa.pdf (3 pages, 207866 bytes).
+Output written on qa.pdf (3 pages, 331542 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

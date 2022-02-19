@@ -354,6 +354,7 @@ INPUT .\pic3.png
 INPUT .\pic3.png
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\rohan\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\pic4.png
 INPUT .\pic4.png
 INPUT pic4.png
@@ -361,7 +362,6 @@ INPUT .\pic4.png
 INPUT .\pic4.png
 INPUT .\pic4.png
 INPUT .\pic4.png
-INPUT C:\Users\rohan\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT qa.aux
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
