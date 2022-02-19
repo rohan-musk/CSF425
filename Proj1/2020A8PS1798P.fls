@@ -1,7 +1,7 @@
 PWD d:\College\Acads\Sem 4\DL\Proj1
 INPUT C:\Users\rohan\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\College\Acads\Sem 4\DL\Proj1\qa.tex
-OUTPUT qa.log
+INPUT d:\College\Acads\Sem 4\DL\Proj1\2020A8PS1798P.tex
+OUTPUT 2020A8PS1798P.log
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -221,10 +221,10 @@ INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\qa.aux
-INPUT qa.aux
-INPUT qa.aux
-OUTPUT qa.aux
+INPUT .\2020A8PS1798P.aux
+INPUT 2020A8PS1798P.aux
+INPUT 2020A8PS1798P.aux
+OUTPUT 2020A8PS1798P.aux
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -345,7 +345,7 @@ INPUT .\pic1.png
 INPUT .\pic1.png
 INPUT pic1.png
 INPUT .\pic1.png
-OUTPUT qa.pdf
+OUTPUT 2020A8PS1798P.pdf
 INPUT .\pic1.png
 INPUT .\pic1.png
 INPUT .\pic1.png
@@ -373,7 +373,7 @@ INPUT .\pic4.png
 INPUT .\pic4.png
 INPUT .\pic4.png
 INPUT .\pic4.png
-INPUT qa.aux
+INPUT 2020A8PS1798P.aux
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\rohan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
