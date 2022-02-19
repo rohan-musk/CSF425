@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1645267507 "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" "qa.pdf" "qa" 1645267508
-  "C:/Users/rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1645256229 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1645276819 "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" "qa.pdf" "qa" 1645276827
+  "C:/Users/rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1645276826 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/rohan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1644647100 9769967 08c6c2682618ddc7bdaa0b92a3a5ee4f ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -58,14 +58,15 @@
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty" 1602228096 22521 d2fceb764a442a2001d257ef11db7618 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1634577016 29971 6c47712bf4bc87d15b2ca318615f75a3 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1615976118 6149 2398eec4faa1ee24ff761581e580ecf1 ""
+  "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/sttools/flushend.sty" 1634199215 28406 d50b1f1e09a8ea19dbf64f26f6df71ab ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/was/gensymb.sty" 1081488500 4755 29d19942d7123701aa6a3876b9ba11b1 ""
-  "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" 1645267506 10726 88c9c363e24d0de377d7f19d566ff745 ""
+  "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" 1645276818 10772 f05b1731d632b8695620c4acbdb6f764 ""
   "pic1.png" 1645267369 37614 29ca350e09e6fefc12b1f87d40121488 ""
   "pic2.png" 1645267392 79984 17e67891ac6f90fe2685022c609cf28e ""
   "pic3.png" 1645267415 53129 68fb85757a6531829b70f0406f3aa339 ""
   "pic4.png" 1645267432 48810 a2755ae9ea2c001f2ba4c5aaa32cca39 ""
-  "qa.aux" 1645267507 137 f6805fbf112a8779fc2474b39a479d1f "pdflatex"
-  "qa.tex" 1645267506 10726 88c9c363e24d0de377d7f19d566ff745 ""
+  "qa.aux" 1645276826 139 8ae9de0d79692b966f0a0a2510a252e9 "pdflatex"
+  "qa.tex" 1645276818 10772 f05b1731d632b8695620c4acbdb6f764 ""
   (generated)
   "qa.aux"
   "qa.log"
