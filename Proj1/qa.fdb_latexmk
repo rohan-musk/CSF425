@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1645257712 "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" "qa.pdf" "qa" 1645257713
+["pdflatex"] 1645267155 "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" "qa.pdf" "qa" 1645267156
   "C:/Users/rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1645256229 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/rohan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1644647100 9769967 08c6c2682618ddc7bdaa0b92a3a5ee4f ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -19,9 +19,13 @@
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1247596667 31809 8670ca339bf94e56da1fc21c80635e2a ""
+  "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -55,13 +59,13 @@
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1634577016 29971 6c47712bf4bc87d15b2ca318615f75a3 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1615976118 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "C:/Users/rohan/AppData/Local/Programs/MiKTeX/tex/latex/was/gensymb.sty" 1081488500 4755 29d19942d7123701aa6a3876b9ba11b1 ""
-  "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" 1645257712 8059 59cca3a160b2e61c04394ccafb11e355 ""
+  "d:/College/Acads/Sem 4/DL/Proj1/qa.tex" 1645267154 10726 3dae324a62cb37b578785ffdf759c950 ""
   "pic1.png" 1644661879 16684 78ea7cfe8f197c36799e7a42e6a74c20 ""
   "pic2.png" 1644663336 19633 6f5e4532ea67fbe951c912859091b0aa ""
   "pic3.png" 1644667657 21671 01705b5f29a2b7e67c061d822d5d89b6 ""
   "pic4.png" 1645253348 19711 4d6f0b94f42d965e008ad479a8ccc678 ""
-  "qa.aux" 1645257713 137 0dc0b1cb03b81adc9d7aa795e9c86324 "pdflatex"
-  "qa.tex" 1645257712 8059 59cca3a160b2e61c04394ccafb11e355 ""
+  "qa.aux" 1645267156 137 f6805fbf112a8779fc2474b39a479d1f "pdflatex"
+  "qa.tex" 1645267154 10726 3dae324a62cb37b578785ffdf759c950 ""
   (generated)
   "qa.aux"
   "qa.log"
